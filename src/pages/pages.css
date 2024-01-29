@@ -1,0 +1,62 @@
+.bg_gray{
+    background: rgb(218, 213, 213);
+}
+
+/* .currencies{
+    border-left: 1px solid var(--bs-gray-500);
+    padding-left: 10px;
+    
+} */
+/*  */
+.bg_gray_icon{
+    background-color: rgb(189, 185, 185);
+    padding: 3px;
+    border: 0.1px solid rgb(196, 191, 191);
+    border-radius: 60px;
+    cursor: pointer;
+    transition: .3s;
+}
+.bg_gray_icon:hover{
+    color: beige !important;
+}
+/* name_logo */
+.name_logo{
+    top: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    animation-name: nameLogo;
+    animation-duration: 2s;
+    left: 104px;
+    top: 143px;
+}
+@keyframes nameLogo{
+    from{
+        translate: 0 30px;
+    }
+    to{
+        translate: 0 0;
+    }
+}
+.first_word{
+    color: rgb(163, 100, 121);
+}
+.name_logo2{
+    top: 60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    animation-name: nameLogo2;
+    animation-duration: 3s;
+    left: 257px;
+    top: 137px;
+}
+@keyframes nameLogo2{
+    from{
+        translate: 0 -50px;
+    }
+    to{
+        translate: 0 0;
+    }
+}
+

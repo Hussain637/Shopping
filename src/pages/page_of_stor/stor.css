@@ -1,0 +1,122 @@
+.style_photo{
+    width: 1349px;
+    height: 400px;
+}
+.style_word_header{
+   top: 200px;
+   left: 350px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    background-color:rgba(240, 255, 255, 0.336);
+    font-weight: 700;
+    border-radius: 30px;
+    animation-name: headarPhoto;
+    animation-duration: 3s;
+}
+
+@keyframes headarPhoto{
+    0%{
+        transform: translate(0,-100px);
+    }
+    25%{
+        transform: translate(0,100px);
+    }
+}
+/* // */
+.img2{
+opacity: 0;
+top: 0;
+position: absolute;
+transition: .4s;
+}
+.div_Parent:hover .img2{
+    opacity: 1;
+}
+.bg_lightGray_icon{
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    transition: .3s;
+}
+.bg_lightGray_icon:hover{
+    background-color: rgba(218, 217, 216, 0.329);
+    padding: 5px;
+    border-radius: 20px;
+}
+/* /////// */
+.header_animation{
+    border-radius: 5px;
+    text-align: center;
+
+}
+.header_animation::after{
+content: "";
+background-color: rgba(43, 149, 211, 0.377);
+position: absolute;
+right: 0;
+border-radius: 2px;
+width: 20px;
+height: 20px;
+animation-name: firstCube ;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-timing-function: linear;  
+
+}
+@keyframes firstCube{
+0%{
+    translate: 0 0;
+}
+25%{
+    translate: 0 18px;
+}
+50%{
+    translate: -975px 18px;
+}
+75%{
+    translate: -980px 0;
+}
+100%{
+    translate: 0 0;
+}
+}
+.header_animation{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header_animation::before{
+    content: "";
+    background-color: rgba(78, 12, 26, 0.377);
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    bottom: 0;
+    left: 0;
+    animation-name: secondCube ;
+    animation-duration: 5s;
+    border-radius: 2px;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    }
+    @keyframes secondCube{
+        0%{
+            translate: 0 0;
+        }
+        25%{
+            translate: 0 -18px;
+        }
+        50%{
+            translate: 980px -18px;
+        }
+        75%{
+            translate: 980px 0;
+        }
+        100%{
+            translate: 0 0;
+        }
+    }
+    .img_hover img{
+        background-size: cover;
+        transition: .5s;
+    }
+    .img_hover:hover img{
+       transform: scale(1.1);
+    }

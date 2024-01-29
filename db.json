@@ -1,0 +1,234 @@
+{
+  "displayItemsRight": [
+     {
+        "id":1,
+        "img":"../src/assets/images/FileImgShow/pexels-photo-2473183.webp",
+        "title":"Macbook pro",
+        "numDel":"EGP 99,530.86",
+        "newNum":"EGP 99,000.00"
+    },
+    {
+        "id":2,
+        "img":"../src/assets/images/FileImgShow/pexels-photo-3907507.webp",
+        "title":"Nikon",
+        "numDel":"EGP 122629",
+        "newNum":"EGP 122329"
+    },
+    {
+        "id":3,
+        "img":"../src/assets/images/FileImgShow/photo_2023-11-25_14-50-06.jpg",
+        "title":"جاكيت NY وتر بروف",
+        "numDel":"EGP 220",
+        "newNum":"EGP 195"
+    },
+    {
+        "id":4,
+        "img":"../src/assets/images/FileImgShow/photo_2023-11-23_16-35-54.jpg",
+        "title":"Realme C30s",
+        "numDel":"EGP 4000",
+        "newNum":"EGP 3500"
+    }
+  ],
+  "displayItemsLeft":[
+    {
+    "id":5,
+    "img":"../src/assets/images/FileImgShow/photo_2023-11-23_16-57-13.jpg",
+    "title":"OPPO A17K",
+    "numDel":"EGP 4950",
+    "newNum":"EGP 4750"},
+      {
+    "id":6,
+    "img":"../src/assets/images/FileImgShow/photo_2023-11-23_16-33-15.jpg",
+    "title":"عسل موالح ",
+    "numDel":"EGP 100",
+    "newNum":"EGP 185"
+  },
+      {
+    "id":7,
+    "img":"../src/assets/images/FileImgShow/photo_2023-11-23_16-55-57.jpg",
+    "title":"سخان مياة ",
+    "numDel":"EGP 5,99.00 ",
+    "newNum":"EGP 4,820.00 "
+  },
+      {
+    "id":8,
+    "img":"../src/assets/images/FileImgShow/photo_2023-11-25_14-50-49.jpg",
+    "title":"مكنسة كهربائية",
+    "numDel":"EGP 4,526.26 ",
+    "newNum":"EGP 3,950.00 "
+  }
+  ],
+  "BestGoods": [   
+  {
+    "id":1,
+    "name":"RUNIC",
+    "price":"EGP 480",
+    "img1":"../src/assets/images/Children_Page/Pajames_Boy/3-product/photo_1_2024-01-24_12-04-16.jpg",
+    "page":"./PageChildrensFashion/#4"
+  },
+  {
+    "id":2,
+    "name":"Fresh organic kiwi",
+    "price":"EGP 80.5 ",
+    "img1":"../src/assets/images/FileImgShow/3(2).jpg"
+  },
+  {
+    "id":3,
+    "name":"GTS4",
+    "price":"EGP 4,888",
+    "img1":"../src/assets/images/FileImgShow/6(3).jpg"
+  },
+  {
+    "id":4,
+    "name":"iPhone 15 Pro Max",
+    "price":"EGP 69,777",
+    "img1":"../src/assets/images/FileImgShow/8(4).jpg"
+  }
+],
+"showColthesKids":[
+  {
+    "id":1,
+    "name":"بيجامة بيبي بناتي شتوي ميلتون",
+    "price":"EGP 289.00",
+    "img1":"../src/assets/images/Children_Page/colothes_Baby/8-product/photo_2_2024-01-24_14-04-56.jpg",
+    "img2":"../src/assets/images/Children_Page/colothes_Baby/8-product/photo_4_2024-01-24_14-04-56.jpg"
+  },
+  {
+    "id":2,
+    "name":"adidas",
+    "price":"EGP 450",
+    "img1":"../src/assets/images/Children_Page/colothes_samar_boy_girl/8-product/photo_4_2024-01-24_14-20-27.jpg",
+    "img2":"../src/assets/images/Children_Page/colothes_samar_boy_girl/8-product/photo_3_2024-01-24_14-20-27.jpg"
+  },
+  {
+    "id":3,
+    "name":"NIKE",
+    "price":"EGP 980",
+    "img1":"../src/assets/images/Children_Page/colothes_samar_boy_girl/5-product/photo_1_2024-01-24_14-15-52.jpg",
+    "img2":"../src/assets/images/Children_Page/colothes_samar_boy_girl/5-product/photo_2_2024-01-24_14-15-52.jpg"
+  },
+  {
+    "id":4,
+    "name":"تيشرت بكم طويل ",
+    "price":"EGP 243",
+    "img1":"../src/assets/images/Children_Page/Pajamas_Girl/6-product/photo_1_2024-01-24_11-39-49.jpg",
+    "img2":"../src/assets/images/Children_Page/Pajamas_Girl/6-product/photo_4_2024-01-24_11-39-49.jpg"
+  },
+  {
+    "id":5,
+    "name":"سويت شيرت ",
+    "price":"EGP 426",
+    "img1":"../src/assets/images/Children_Page/Pajamas_Girl/11-product/photo_1_2024-01-24_11-47-18.jpg",
+    "img2":"../src/assets/images/Children_Page/Pajamas_Girl/11-product/photo_3_2024-01-24_11-47-18.jpg"
+  },
+  {
+    "id":6,
+    "name":"adidas",
+    "price":"EGP 225",
+    "img1":"../src/assets/images/Children_Page/colothes_samar_boy_girl/9-product/photo_2_2024-01-24_14-21-36.jpg",
+    "img2":"../src/assets/images/Children_Page/colothes_samar_boy_girl/9-product/photo_5_2024-01-24_14-21-36.jpg"
+  }
+],
+"winterPajamas":[
+  {
+    "id":1,
+    "name":"Of age:(10-16) ",
+    "price":"EGP 465,00",
+    "img":"../src/assets/images/Children_Page/Pajamas_Girl/4-product/photo_5_2024-01-24_11-35-09.jpg",
+     "targetId":"1"
+  },
+  {
+    "id":2,
+    "name":"Of age:(9-5) ",
+    "price":"EGP 390,00",
+    "img":"../src/assets/images/Children_Page/Pajames_Boy/2-product/photo_2_2024-01-24_12-03-04.jpg",
+     "targetId":"2"
+  },
+  {
+    "id":3,
+    "name":"Of age:(4-2)",
+    "price":"EGP 370,00",
+    "img":"../src/assets/images/Children_Page/Pajamas_Girl/8-product/photo_3_2024-01-24_11-43-44.jpg",
+     "targetId":"3"
+  },
+  {
+    "id":4,
+    "name":"Of age: (7 year-3 Month )",
+    "price":"EGP 547,00",
+    "img":"../src/assets/images/Children_Page/Pajames_Boy/3-product/photo_1_2024-01-24_12-04-16.jpg",
+    "targetId":"4"
+  },
+  {
+    "id":5,
+    "name":"Of age:(2-4) ",
+    "price":"EGP 345,00",
+    "img":"../src/assets/images/Children_Page/Pajamas_Girl/12-product/photo_2_2024-01-24_11-48-06.jpg",
+     "targetId":"5"
+  },
+  {
+    "id":6,
+    "name":"Of age:(4-2) ",
+    "price":"EGP 345,00",
+    "img":"../src/assets/images/Children_Page/Pajames_Boy/6-product/photo_1_2024-01-24_12-06-51.jpg",
+     "targetId":"6"
+  },
+  {
+    "id":7,
+    "name":"Of age:(5-9) ",
+    "price":"EGP 390,00",
+    "img":"../src/assets/images/Children_Page/Pajamas_Girl/13-product/photo_2_2024-01-24_11-49-12.jpg",
+     "targetId":"7"
+  },
+  {
+    "id":8,
+    "name":"Of age:(9-5) ",
+    "price":"EGP 415,00",
+    "img":"../src/assets/images/Children_Page/Pajames_Boy/11-product/photo_1_2024-01-24_13-40-26.jpg",
+     "targetId":"8"
+  }
+],
+"winterChildrensColothes":[
+  {
+    "id":1,
+    "name":"Size: (0-3 / 3-6 / 6-12) ",
+    "price":"EGP 150,00",
+    "img":"../src/assets/images/Children_Page/colothes_Baby/1-product/photo_1_2024-01-24_13-54-45.jpg",
+     "targetId":"w1"
+  },
+  {
+    "id":2,
+    "name":"Size: NEW BORN ",
+    "price":"EGP 215,00",
+    "img":"../src/assets/images/Children_Page/colothes_Baby/2-product/photo_1_2024-01-24_13-56-04.jpg",
+     "targetId":"w1"
+  },
+  {
+    "id":3,
+    "name":"Size:(0-3 / 3-6 / 6-12) ",
+    "price":"EGP 175,00",
+    "img":"src/assets/images/Children_Page/colothes_Baby/3-product/photo_1_2024-01-24_13-58-33.jpg",
+     "targetId":"w1"
+  },
+  {
+    "id":4,
+    "name":"Size: (0-3 / 3-6 / 6-12) ",
+    "price":"EGP 225,00",
+    "img":"../src/assets/images/Children_Page/colothes_Baby/4-product/photo_1_2024-01-24_13-59-27.jpg",
+     "targetId":"w1"
+  },
+  {
+    "id":5,
+    "name":"Of age:(0-6) ",
+    "price":"EGP 150,00",
+    "img":"../src/assets/images/Children_Page/colothes_Baby/5-product/photo_1_2024-01-24_14-00-27.jpg",
+     "targetId":"w1"
+  },
+  {
+    "id":6,
+    "name":"Size: (0-3 / 3-6 / 6-12)",
+    "price":"EGP 115,00",
+    "img":"../src/assets/images/Children_Page/colothes_Baby/6-product/photo_1_2024-01-24_14-01-06.jpg",
+     "targetId":"w1"
+  }
+]
+}
